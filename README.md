@@ -20,6 +20,15 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 ## Week 5:
 - Regularized Polynomial Regression
 - Handling Bias/Variance 
+## Week 6:
+- Support Vector Machines
+- Gaussian Kernels
+## Week 7:
+- Image Compression with K-Means Clustering Algorithm
+## Week 8:
+- Anomaly Detection Algorithm
+- Collaborative Filtering/Recommender Systems
+
 
 
 
