@@ -5,3 +5,6 @@ to the population of a city, while the second corresponds to profits from a food
 ## Objective
 Using gradient descent, the linear regression parameters are fit to the dataset and used to minimize the cost function. Ultimately,
 the goal of the program is to determine which city to expand to next.
+## TODO
+- Vectorize 'gradientDescent.m' and 'computeCost.m'
+- Complete the code for linear regression with multiple variables
