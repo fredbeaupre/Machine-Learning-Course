@@ -17,6 +17,9 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Shallow Neural Networks (Feedforward Propagation)
 ## Week 4:
 - Shallow Neural Networks (Backpropagation)
+## Week 5:
+- Regularized Polynomial Regression
+- Handling Bias/Variance 
 
 
 
