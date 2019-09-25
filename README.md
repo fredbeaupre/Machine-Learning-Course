@@ -4,5 +4,10 @@ All code from this repository is for the programming assignments from the online
 The code is run on the scientific programming language [GNU Octave 3.8.0](https://www.gnu.org/software/octave/), with its interpreter invoked as part of a shell script. It should also be easy to adapt the code for running in [MATLAB](https://www.mathworks.com/products/matlab.html).
 # Overview
 As was said earlier, the course was divided into 11 weeks, almost all of which contained 1 or 2 programming assignments. The topics covered in each week follow:
-## Week 1:
+## Week 1: 
+- Linear Regression with one variable/Gradient Descent
+- Linear Regression with Multiple Variables
+- Feature Normalization
+
+
 
