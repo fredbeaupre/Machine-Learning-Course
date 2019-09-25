@@ -14,7 +14,9 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Feature Mapping
 ## Week 3:
 - One vs. All Logistic Regression/Multi-Class Classification
-- Shallow Neural Networks
+- Shallow Neural Networks (Feedforward Propagation)
+## Week 4:
+- Shallow Neural Networks (Backpropagation)
 
 
 
