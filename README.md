@@ -25,6 +25,7 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Gaussian Kernels
 ## Week 7:
 - Image Compression with K-Means Clustering Algorithm
+- Principal Component Analysis
 ## Week 8:
 - Anomaly Detection Algorithm
 - Collaborative Filtering Algorithm/Recommender Systems
