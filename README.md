@@ -8,6 +8,11 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Linear Regression with one variable/Gradient Descent
 - Linear Regression with Multiple Variables
 - Feature Normalization
+## Week 2:
+- Logistic Regression
+- Regularized Logistic Regression
+- Feature Mapping
+## Week 3:
 
 
 
