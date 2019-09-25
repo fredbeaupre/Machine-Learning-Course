@@ -27,7 +27,7 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Image Compression with K-Means Clustering Algorithm
 ## Week 8:
 - Anomaly Detection Algorithm
-- Collaborative Filtering/Recommender Systems
+- Collaborative Filtering Algorithm/Recommender Systems
 
 
 
