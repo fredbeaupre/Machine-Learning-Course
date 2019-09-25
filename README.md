@@ -13,6 +13,8 @@ As was said earlier, the course was divided into 11 weeks, almost all of which c
 - Regularized Logistic Regression
 - Feature Mapping
 ## Week 3:
+- One vs. All Logistic Regression/Multi-Class Classification
+- Shallow Neural Networks
 
 
 
